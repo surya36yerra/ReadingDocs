@@ -1,0 +1,33 @@
+Applications⁩ ▸ ⁨Couchbase Server⁩ ▸ ⁨Contents⁩ ▸ ⁨Resources⁩ ▸ ⁨couchbase-core⁩ ▸ 
+ 
+ Applications/Couchbase Server.app/Contents/Resources/couchbase-core/bin
+
+Users⁩ ▸ ⁨syerr3⁩ ▸ ⁨Desktop⁩ ▸ ⁨Training⁩ ▸ ⁨couchbase⁩
+
+
+
+cbimport json -c couchbase://127.0.0.1 -u employee -p saibaba999 -b employee -f lines -d file://employee⁩.json -t 2 -g employee::%id%
+
+
+
+
+
+Users⁩/⁨syerr3⁩/⁨Desktop⁩
+
+
+/Applications/CouchbaseServer.app/Contents/Resources/couchbase-core/bin
+
+
+cbimport json -c couchbase://127.0.0.1 -u customer360 -p saibaba999 -b customer360 -f lines -d file://customer360 -t 2 -g customer::%id%
+
+cbimport json -c couchbase://127.0.0.1 -u customer360 -p saibaba999 -b customer360 -f lines -d file://customer360 -t 2 -g customer::%id%
+
+ cbimport json -c couchbase://127.0.0.1 -u employee -p saibaba999 -b employee -f lines -d file://employee.json -t 2 -g %id%
+
+cbimport json -c couchbase://127.0.0.1 -u Administrator -p knoldus -b blog -f lines -d file://blog.json -t 2 -g % employeeId%
+
+
+
+https://ci-repo.aexp.com/java-hosted/content/repositories/snapshots/com/americanexpress/eom/ears/EnterpriseOffersServicesEAR/10.85-SNAPSHOT/EnterpriseOffersServicesEAR-10.85-20190806.205706-6.ear
+
+https://ci-repo.aexp.com/java-hosted/content/repositories/snapshots/com/americanexpress/eom/ears/EnterpriseOffersServicesEAR/10.85-SNAPSHOT/EnterpriseOffersServicesEAR-10.85-20190806.205706-6.ear
