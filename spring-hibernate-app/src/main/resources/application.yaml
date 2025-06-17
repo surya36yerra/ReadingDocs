@@ -1,0 +1,14 @@
+
+# OracleDB connection settings
+spring:
+  r2dbc:
+    url: r2dbc:oracle://vngdev-db.aexp.com:1525/AMEX_PDVNG03P
+    username: VPAYNGEN_APPUSER
+    password: VpaYapp#pw0d
+
+server:
+  port: 8080
+
+  logging:
+    level:
+      root: INFO
